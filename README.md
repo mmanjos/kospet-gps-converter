@@ -20,7 +20,9 @@ So far, this project has only been tested against these watches. Please report i
 
 _Note: you will need to have your Android phone rooted for this to work_
 
-GPS Route data that has been recorded by the watch gets written to JSON files on your phone after the watch syncs to the [KOSPET Fit](https://play.google.com/store/apps/details?id=com.yc.kospetfit) app. These get written to the `/data/media/0/Android/data/com.yc.kospetfit/files/upload/sport/json/` path.
+GPS Route data that has been recorded by the watch gets written to JSON files on your phone after the watch syncs to the [KOSPET Fit](https://play.google.com/store/apps/details?id=com.yc.kospetfit) app.
+
+These files get written to this path on the Android phone: `/data/media/0/Android/data/com.yc.kospetfit/files/upload/sport/json/`
 
 Fetch all of the GPS routes with these commands:
 
