@@ -12,7 +12,7 @@ So far, this project has only been tested against these watches. Please report i
 | ----------------------------------------------------------------------------------- | ------------- | ---------------------------------------- |
 | [KOSPET Tank T3 Ultra](https://kospet.com/products/kospet-tank-t3-ultra-smartwatch) | AT341DV001134 | :white_check_mark: Lat/Long :x: Altitude |
 
-The current firmware on the Tank T3 Ultra unfortunately records `altitude: 0` at all points in the data. A request has been made to the manufacturer to have this valuable data saved in future releases.
+:warning: The current firmware on the Tank T3 Ultra unfortunately records `altitude: 0` at all points in the data. A request has been made to the manufacturer to have this valuable data saved in future releases.
 
 ## Usage
 
