@@ -6,7 +6,7 @@ This tool was written to convert the proprietary JSON route recording from KOSPE
 
 ## Compatability
 
-So far, this project has only been tested against these watches. [Please report](https://github.com/mmanjos/kospet-gps-converter/issues) if you were able to get it working on another watch or firmware combo.
+So far, this project has only been tested against these watches. [Please report](https://github.com/mmanjos/kospet-gps-converter/issues/new) if you were able to get it working on another watch or firmware combo.
 
 | Watch                                                                               | Firmware      | Supported                                |
 | ----------------------------------------------------------------------------------- | ------------- | ---------------------------------------- |
